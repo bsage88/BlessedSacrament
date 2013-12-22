@@ -1,0 +1,2 @@
+This is the first file. Hopefully I can see this in my repository, 
+or maybe I have to view it from explorer
